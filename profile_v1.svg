@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .div-inline {
+                    width: 45%;
+                    display: inline-block;
+                }
+            </style>
+            <div class="div-inline">
+                <center>
+                    <h2>Modpacks</h2>
+                </center>
+                <a href="https://github.com/xR4YM0ND/Aged-Lite">
+                    <img align="center"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username=xr4ym0nd&repo=aged-lite&theme=react" />
+                </a>
+                <a href="https://github.com/xR4YM0ND/Aged">
+                    <img align="center"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username=xr4ym0nd&repo=aged&theme=react" />
+                </a>
+            </div>
+            <div class="div-inline">
+                <center>
+                    <h2>Resourcepacks</h2>
+                </center>
+                <a href="https://github.com/xR4YM0ND/RAYs-3D-Rails">
+                    <img align="center"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username=xr4ym0nd&repo=RAYs-3D-Rails&theme=react" />
+                </a>
+                <a href="https://github.com/xR4YM0ND/RAYs-3D-Ladders">
+                    <img align="center"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username=xr4ym0nd&repo=RAYs-3D-Ladders&theme=react" />
+                </a>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
