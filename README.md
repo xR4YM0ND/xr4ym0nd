@@ -1,1 +1,3 @@
-![Kanoj's github stats](https://github-readme-stats.vercel.app/api?username=xr4ym0nd&hide=prs&show_icons=true&theme=react)
+<div style="width: 100%;">
+  <img src="profile_v1.svg" style="width: 100%;" alt="Click to see the source">
+</div>
