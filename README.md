@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+on+xR4YM0ND's+Profile;Aged+Dev+%2F+RAY's+3D+Dev;Get+your+server+at+ServerAtelier)](https://www.serveratelier.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+on+xR4YM0ND's+Profile;Aged+Dev+%2F+RAY's+3D+Dev;Get+your+server+at+ServerAtelier)](https://www.serveratelier.com)
